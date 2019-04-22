@@ -1,0 +1,40 @@
+# Built application files
+/build/
+/*/build/
+
+# Local configuration file
+credentials.properties
+local.properties
+
+# Gradle generated files
+.gradle/
+
+# User-specific configurations
+.idea/dictionaries/
+.idea/libraries/
+.idea/.name
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/tasks.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/runConfigurations.xml
+.idea/copyright/profiles_settings.xml
+.idea/gradle_extensions.xml
+.idea/kotlinc.xml
+.idea/assetWizardSettings.xml
+/.idea/caches
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/saveactions_settings.xml
+*.iml
+
+# OS-specific files
+.DS_Store
+
+
+/captures
+.externalNativeBuild
