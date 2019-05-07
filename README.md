@@ -27,7 +27,7 @@ NEWS_API_KEY = "YOUR_API_KEY"
 
 ## Dependency Graph 🔪
 
-The following diagram shows the dependecy graph of the app.
+The following diagram shows the dependency graph of the app.
 
 <img alt="News App Dependency Graph" height="450px" src="https://raw.githubusercontent.com/AkshayChordiya/NewsAppMVI/master/art/dependency-graph.png" />
 
